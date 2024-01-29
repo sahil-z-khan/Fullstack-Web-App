@@ -1,4 +1,5 @@
 -- Create a new database
+-- test
 DROP DATABASE If exampledb;
 CREATE DATABASE exampledb;
 
