@@ -1,5 +1,5 @@
 -- Create a new database
--- this is from local
+-- this should show on github once i'm done with merge conflicts (github)
 DROP DATABASE If exampledb;
 CREATE DATABASE exampledb;
 
