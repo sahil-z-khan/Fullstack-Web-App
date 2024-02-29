@@ -7,7 +7,7 @@ Goal is to create a fullstack App
 ## Setup
 make sure that you have python and pip installed
 
-### run the following commands
+### Run the following commands
 
 clone down the repo (make sure to setup ssh keys) <- this is for the devs
 
@@ -23,3 +23,5 @@ install the necessary packages from requirements.txt
 - `pip install -r requirements.txt`
 
 
+### After this, make sure to follow the readme in setting up the backend
+- Click [here](backend/readme.md) to view the readme
